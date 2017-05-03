@@ -8,3 +8,4 @@ new merge
 有一个 merge
 修复一个bug
 这里有一个bug
+分支的一个提交·
