@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 merge
 new merge
 有一个 merge
+修复一个bug
+
